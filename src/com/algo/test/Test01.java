@@ -10,6 +10,6 @@ public class Test01 {
 //        MazeData mzData = new MazeData(filename);
 //        mzData.printToConsole();
 
-        AlgoVisualizer visualizer = new AlgoVisualizer(filename, "看得见的迷宫(深度优先)");
+        AlgoVisualizer visualizer = new AlgoVisualizer(filename, "看得见的迷宫(广度优先)");
     }
 }
